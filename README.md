@@ -17,8 +17,6 @@ A React-based project with a comprehensive Vite and Tailwind setup, featuring en
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Running Locally](#running-locally)
-- [Tech Stack](#tech-stack)
-- [License](#license)
 
 ---
 
