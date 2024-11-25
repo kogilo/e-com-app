@@ -5,7 +5,7 @@
 A React-based project with a comprehensive Vite and Tailwind setup, featuring enhanced UI/UX elements powered by DaisyUI. This project includes a functional e-commerce platform, complete with product pages, search filters, and customizable themes.
 
 ## Live Demo
-[Comfy Store Project](https://abella-ecom-app.netlify.app/)
+[E-com Store Project](https://abella-ecom-app.netlify.app/)
 
 
 
@@ -36,14 +36,15 @@ A React-based project with a comprehensive Vite and Tailwind setup, featuring en
 ### Installation
 
 1. Clone the repository:
-   ```sh
+```sh
    git clone <repository-url>
-```
+ ```
 
 2. Navigate into the project directory:
 ```sh
 cd store
 ```
+
 3. Install dependencies:
 ```sh
 npm i 
